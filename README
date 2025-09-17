@@ -1,4 +1,11 @@
-This is for pratice
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sarthak-gupta229/python-projects.git
+git push -u origin main
+
+to add content if are working in same repo
 git add .                       -for all 
 or git add file name
 git commit -m "message"
