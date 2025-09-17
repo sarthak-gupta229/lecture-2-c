@@ -10,3 +10,14 @@ git add .                       -for all
 or git add file name
 git commit -m "message"
 git push -u origin main
+
+to copy or make branch
+git branch featuretype1(creating branch)
+git checkout featuretype1(change branch)
+git checkout -b feature (it will create branch and change to it)
+git checkout main(take to main )
+
+to push the branch
+git add .                       -for all 
+git commit -m "message"
+git push -u branch_name 
