@@ -1,0 +1,5 @@
+This is for pratice
+git add .                       -for all 
+or git add file name
+git commit -m "message"
+git push -u origin main
